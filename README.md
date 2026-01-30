@@ -21,3 +21,4 @@ This repository contains simple templates and procedures for evidence intake, ch
 This is for training and documentation practice. Do not include real personal data in this repo.
 ## Examples
 The examples folder contains fictional, completed documentation to demonstrate how the templates are used in practice.
+- Hashing checklist
